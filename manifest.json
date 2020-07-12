@@ -1,0 +1,20 @@
+{
+  "short_name": "FM",
+  "name": "Fachreza Maulana",
+  "icons": [
+    {
+      "src": "assets/images/logo/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/logo/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#21A0DC",
+  "display": "standalone",
+  "theme_color": "#D7126A"
+}
